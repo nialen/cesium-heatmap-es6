@@ -6,7 +6,7 @@
     "version": "0.8.0",
     "private": false,
     "dependencies": {
-        "cesium": "^1.102.0"
+        "cesium": "^1.118.2"
     },
     "files": [
         "dist",
